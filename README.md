@@ -1,6 +1,6 @@
 <!-- Banner / Avatar -->
 <p align="center">
-  <img src="YOUR_AVATAR_URL" width="140" style="border-radius: 50%;"/>
+  <img src="avatar.png" width="140" style="border-radius: 50%;"/>
 </p>
 
 <h1 align="center">Hi, I'm Theo 👋</h1>
@@ -81,7 +81,7 @@ More projects coming soon…
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
     <img src="https://img.shields.io/badge/LinkedIn-5d4037?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:theopantecouteau1@protonmail.com">
     <img src="https://img.shields.io/badge/Email-5d4037?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
