@@ -57,7 +57,9 @@ More projects coming soon…
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
   <img src="https://img.shields.io/badge/Scikit--learn-5d4037?style=flat-square" />
-  <img src="https://skillicons.dev/icons?i=llamindex,openrouter,ollama" />
+  <img src="https://img.shields.io/badge/llamindex-5d4037?style=flat-square" />
+  <img src="https://img.shields.io/badge/open--router-5d4037?style=flat-square" />
+  <img src="https://img.shields.io/badge/ollama-5d4037?style=flat-square" />
 </p>
 
 ### **Infra & Tools**
