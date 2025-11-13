@@ -30,14 +30,14 @@ I care about **clarity, performance, and building things that actually matter**.
 
 ### 🔍 **ReadLaterAI**  
 *A FastAPI micro-service that scrapes, summarizes, tags and exports articles.*  
-Stack: FastAPI • Newspaper3k • BeautifulSoup • LLMs • Notion API • Docker  
+Stack: FastAPI • BeautifulSoup • LLMs • Chrome Extension • NextJS  
 👉 Useful for collecting knowledge automatically.
 
 ---
 
 ### 📚 **Arxiv RAG System**  
 *A local pipeline to ingest, chunk, embed and search Arxiv papers with RAG + reranking.*  
-Stack: FastAPI • LangChain • OpenSearch • embeddings • Airflow (optional)  
+Stack: FastAPI • llamindex • OpenSearch • embeddings • Airflow • React
 👉 Designed to quickly explore research directions with depth.
 
 ---
@@ -56,8 +56,8 @@ More projects coming soon…
 ### **AI / Data**
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-  <img src="https://img.shields.io/badge/PyMC-CLAY?style=flat-square&color=5d4037" />
   <img src="https://img.shields.io/badge/Scikit--learn-5d4037?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=llamindex,openrouter,ollama" />
 </p>
 
 ### **Infra & Tools**
